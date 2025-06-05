@@ -163,7 +163,7 @@ divisions表
 | 12 | 11 | 江岸区 | 0 |
 
 
-user_a_love关联中间表
+user_a_role关联中间表
 
 | id | user\_id | role\_id | is\_delete |
 | :--- | :--- | :--- | :--- |
